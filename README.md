@@ -1,4 +1,20 @@
-## Hi there 👋
+## Sejam Bem-Vindos ao Meu Mundo!
+
+![Satoro Gojo](https://images4.alphacoders.com/133/1332281.jpeg)
+------------------
+Olá, me chamo Carlos Ventura!<br>
+Sou Estudante de Sistema de Informação
+📫 [Acesse o meu Linkedin](https://www.linkedin.com/in/carloseduardovs/)
+
+
+-----
+
+### Minhas Tecnologias 
+
+![Python]
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px"/>
+
 
 <!--
 **yhardscore/yhardscore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
