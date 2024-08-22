@@ -2,8 +2,8 @@
 
 ![Satoro Gojo](https://images4.alphacoders.com/133/1332281.jpeg)
 ------------------
-Olá, me chamo Carlos Ventura!<br>
-Sou Estudante de Sistema de Informação
+👾 Olá, me chamo Carlos Ventura!<br>
+💬 Sou Estudante de Sistema de Informação<br>
 📫 [Acesse o meu Linkedin](https://www.linkedin.com/in/carloseduardovs/)
 
 
@@ -11,9 +11,16 @@ Sou Estudante de Sistema de Informação
 
 ### Minhas Tecnologias 
 
-[Python]
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px"/>
+
+
+-------
+
+| Curso | Certificado |
+|-------| ------------|
+|Visão Computacional
 
 
 <!--
