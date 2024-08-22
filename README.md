@@ -11,7 +11,7 @@ Sou Estudante de Sistema de Informação
 
 ### Minhas Tecnologias 
 
-![Python]
+[Python]
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px"/>
 
