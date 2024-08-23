@@ -1,22 +1,25 @@
-## Sejam Bem-Vindos ao Meu Mundo!
+## Sejam Bem-Vindos!
 
-![Satoro Gojo](https://images4.alphacoders.com/133/1332281.jpeg)
+
+<div align="center">
+  <img src="https://images4.alphacoders.com/133/1332281.jpeg" alt="Apresentação" Width="700" height="450px">
+</div>
+
 ------------------
 👾 Olá, me chamo Carlos Ventura!<br>
-💬 Sou Estudante de Sistema de Informação<br>
+💬 Sou Estudante de Sistema de Informação.<br>
 📫 [Acesse o meu Linkedin](https://www.linkedin.com/in/carloseduardovs/)
 
 
------
+------------------
 
 ### Minhas Tecnologias 
 
 <div style="display: flex;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px"/>
-    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px"/>  
 </div>
 
--------
+------------------
 
 | Curso | Certificado |
 |-------| ------------|
