@@ -13,16 +13,14 @@
 
 <div style="display: flex;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px"/>
+    
 </div>
-
-
 
 -------
 
 | Curso | Certificado |
 |-------| ------------|
-|Visão Computacional
+|RPA com Python e BotCity| [Certificado](https://certificate.botcity.dev/verify/304497e515831)
 
 
 <!--
