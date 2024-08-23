@@ -8,7 +8,11 @@
 ------------------
 :space_invader: Olá, me chamo Carlos Ventura!<br>
 :speech_balloon: Sou Estudante de Sistema de Informação.<br>
-:mailbox: [Acesse o meu Linkedin](https://www.linkedin.com/in/carloseduardovs/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloseduardovs/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
+
 
 
 ------------------
